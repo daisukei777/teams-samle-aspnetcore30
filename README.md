@@ -31,7 +31,7 @@ Note: It may be worth purchasing a basic subscription to ngrok so you can get a 
 - Open the Microsoft Teams client. If you use the web based version you can inspect your front-end code using your browser's developer tools.
 - Open App studio and select the Manifest editor tab.
 
-![Appstudio](./images/appstudio.PNG)
+![Appstudio](./channelGroupTab/images/appstudio.PNG)
 - Select the Import an existing app tile in the Manifest editor to begin updating the app package for your tab. The source code comes with its own partially complete manifest. The name of your app package is appPackage.zip. It should be found here:[appPackage](./appPackage)
 - Upload appPackage.zip to App Studio.
 - Select the tile for your newly imported tab in the right panel of the Manifest editor welcome page.
